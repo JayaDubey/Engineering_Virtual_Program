@@ -18,7 +18,8 @@ Learnings and Findings
 Cracking passwords
 I used Hashcat to crack passwords by using Brute-force attack technique.Also learned about Dictionary-attack.I saved the passwords locally on my system in a file and tried to crack them on my system.Cracked password - johnwick007:f6a0cb102c62879d397b12b62c092c06 can be seen at this link: https://photos.app.goo.gl/NfpLefAcuLFoyMXbA
 
-Resources: 
+Resources:
+
 1.https://hashcat.net/hashcat/ 
 
 2.https://howsecureismypassword.net/ 
